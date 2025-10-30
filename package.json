@@ -1,7 +1,7 @@
 {
   "homepage": "https://ivann4y.github.io/reacts-point-of-sale-048",
-  "name": "point-of-sale-048",
-  "private": true,
+  "name": "reacts-point-of-sale-048",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
